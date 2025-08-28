@@ -16,7 +16,7 @@ This extension helps you generate professional email replies in your preferred t
 
 ## 🛠️ Tech Stack
 - **Backend:** Spring Boot (Java)  
-- **Frontend Extension:** JavaScript (Manifest V3, HTML, CSS)  
+- **Frontend Extension:** JavaScript (React , MaterialUI)  
 - **API:** OpenRouter (for AI completions)  
 - **Build Tool:** Maven  
 
